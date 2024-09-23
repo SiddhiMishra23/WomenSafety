@@ -8,7 +8,7 @@ class CustomAppbar extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Text(sayings[0],
-      style:TextStyle(fontSize: 22,),
+      style:TextStyle(fontSize: 22,))
     );
   }
 }
